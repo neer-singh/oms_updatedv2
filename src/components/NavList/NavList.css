@@ -1,0 +1,19 @@
+.NavList {
+  margin-top: 50px;
+  display: flex;
+  border-left: 3px solid White;
+  align-items: center;
+  flex-direction: row;
+}
+.icon {
+  max-width: 18.75px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.title {
+  color: #ffffff;
+  margin: 0px !important;
+}
+a {
+  text-decoration: none !important;
+}

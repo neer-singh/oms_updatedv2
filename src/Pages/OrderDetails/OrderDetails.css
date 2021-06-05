@@ -1,0 +1,27 @@
+.cardDetials {
+  background-color: #05007e;
+  border-radius: 10px;
+}
+.distributorHeading {
+  font-size: 18px !important;
+  opacity: 0.5;
+}
+
+.tableDiv {
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  padding-top: 5px;
+}
+.table thead th {
+  border: none !important;
+}
+/* .column1 {
+  border-top: 1px solid #0c0881;
+  border-left: 1px solid #0c0881;
+  border-bottom: 1px solid #0c0881;
+}
+.column2 {
+  border-top: 1px solid #0c0881;
+  border-right: 1px solid #0c0881;
+  border-bottom: 1px solid #0c0881;
+} */

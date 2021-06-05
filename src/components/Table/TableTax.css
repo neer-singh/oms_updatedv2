@@ -1,0 +1,73 @@
+body {
+  font-size: 0.875rem !important;
+}
+.icon {
+  color: #ababab;
+}
+.tableDiv {
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  padding-top: 5px;
+}
+.pageInput {
+  width: 80px !important;
+}
+.input-group-text {
+  background-color: transparent !important;
+}
+.filters {
+  max-width: 65%;
+}
+span {
+  font-size: 14px;
+}
+.button {
+  padding: 2px 8px !important;
+  border-radius: 8px !important;
+  border: none !important;
+  margin-top: 10px;
+}
+.delete {
+  background-color: #ffe8d9 !important;
+  color: #e02020 !important;
+}
+.edit {
+  background-color: #ccf1ff !important;
+  color: #32c5ff !important;
+}
+.model_close_btn {
+  cursor: pointer;
+}
+.model_close_btn:hover {
+  color: red;
+}
+.modal-header {
+  border-bottom: none !important;
+  padding: 1rem 1rem 0rem 1rem !important;
+}
+.modal-footer {
+  border-top: none !important;
+}
+.form-group {
+  margin-bottom: 0.5rem !important;
+}
+.form {
+  margin: 0rem 5rem;
+}
+.confirm {
+  background-color: #e6ffcc !important;
+  color: #6dd400 !important;
+}
+.table thead th {
+  border: none !important;
+}
+.btn {
+  font-size: 12px !important;
+}
+
+/* .columnWidth:last-child {
+  width: 160px !important;
+} */
+.columnWidth:last-child {
+  width: 190px !important;
+}

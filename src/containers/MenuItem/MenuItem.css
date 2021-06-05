@@ -1,0 +1,23 @@
+.img {
+  max-width: 120px;
+  height: 120px;
+  padding: 18px 10px 10px 10px;
+}
+.titles {
+  font-size: 12px;
+  padding-left: 20px;
+}
+.cardContainer {
+  display: flex;
+  justify-content: center;
+}
+.card-body {
+  padding: 0px !important;
+}
+.card {
+  margin-bottom: 30px;
+}
+.card:hover {
+  background-color: #f3f3f3;
+  cursor: pointer;
+}

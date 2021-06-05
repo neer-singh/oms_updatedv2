@@ -1,0 +1,15 @@
+* {
+  font-size: 12px;
+}
+
+.item-edit {
+  background-color: #ccf1ff !important;
+  border: none !important;
+  color: #32c5ff !important;
+  border-radius: 8px !important;
+  padding: 2px 21px !important;
+}
+.createitem {
+  justify-content: flex-end;
+  align-items: flex-end;
+}

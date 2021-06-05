@@ -1,0 +1,41 @@
+.add_margin {
+  background-color: #05007e;
+  color: #ffffff;
+  width: 100%;
+  margin: 50px;
+  font-size: 18px;
+  flex-direction: column;
+  padding: 10px;
+}
+.p {
+  color: #a3a3a3;
+  font-size: 14px;
+  font-weight: 600;
+}
+.editicon {
+  color: white;
+  cursor: pointer;
+}
+.icon_container {
+  width: 100%;
+  justify-content: flex-end;
+}
+p {
+  margin-bottom: 0px !important;
+}
+.margin {
+  text-align: center;
+}
+.region {
+  color: #7d7d7d;
+  font-size: 14px;
+  margin-right: 10px;
+}
+.defaults {
+  background-color: #fafaff;
+  flex-direction: column;
+}
+.suffixbtn {
+  border-radius: 0px 0.25rem 0.25rem 0px !important;
+  background-color: #d5d5ff !important;
+}
